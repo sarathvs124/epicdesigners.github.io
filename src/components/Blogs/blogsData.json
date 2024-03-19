@@ -1,0 +1,29 @@
+
+
+[
+    {
+      "id": 1,
+      "image": "src/assets/house1/frontImage.jpeg",
+      "title": "House 1",
+      "description": "“The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.",
+      "author": "Someone",
+      "date": "April 22, 2022"
+    },
+    {
+      "id": 2,
+      "image": "src/assets/house2/frontImage.jpeg",
+      "title": "house 2",
+      "description": "“The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.",
+      "author": "Someone",
+      "date": "April 22, 2022"
+    },
+    {
+      "id": 3,
+      "image": "src/assets/house3/frontImage.jpeg",
+      "title": "House 3",
+      "description": "“The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.",
+      "author": "Someone",
+      "date": "April 22, 2022"
+    }
+  ]
+  

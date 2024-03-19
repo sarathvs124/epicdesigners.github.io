@@ -1,0 +1,6 @@
+[
+    { "id": 1, "src":[ "src/assets/house1/frontImage.jpeg","src/assets/house1/image4.jpeg","src/assets/house1/IMAGE1.jpeg","src/assets/house1/image4.1.jpeg","src/assets/house1/IMAGE1.1.jpeg","src/assets/house1/image 2.jpeg","src/assets/house1/image 3.jpeg","src/assets/house1/image5.jpeg","src/assets/house1/video1.mp4","src/assets/house1/video2.mp4"] },
+    { "id": 2,"src":["src/assets/house2/frontImage.jpeg","src/assets/house2/image1.jpeg","src/assets/house2/image9.jpeg","src/assets/house2/image2.jpeg","src/assets/house2/image3.jpeg","src/assets/house2/image4.jpeg","src/assets/house2/image5.jpeg","src/assets/house2/image8.jpeg","src/assets/house2/video1.mp4","src/assets/house2/video2.mp4"]},
+    { "id": 3,"src":["src/assets/house3/frontImage.jpeg","src/assets/house3/image1.jpeg","src/assets/house2/image9.jpeg","src/assets/house3/image2.jpeg","src/assets/house2/image3.jpeg","src/assets/house2/image4.jpeg","src/assets/house2/image5.jpeg","src/assets/house2/image8.jpeg","src/assets/house2/video1.mp4","src/assets/house2/video2.mp4"]}
+]
+  
